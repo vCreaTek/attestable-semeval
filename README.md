@@ -36,4 +36,4 @@ If you find this work useful, please cite:
 ```
 
 ## Contact
-Feel free to contact `tbd` for any queries
+Feel free to contact Pratik Ratadiya (pratik.r@vcreatek.com) for any queries
