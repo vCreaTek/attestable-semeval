@@ -1,9 +1,9 @@
-# Statement Verification and Evidence Finding in Tabular Data
+# Fact Verification and Evidence Finding in Tabular Data
 
 Code for our paper [*AttesTable at SemEval-2021 Task 9: Extending Statement Verification with Tables for Unknown Class, and Semantic Evidence Finding*](https://aclanthology.org/2021.semeval-1.182/)
 
 ## Task
-`tbd`  
+Data, task, and other competition related details can be accessed at the [SEM-TAB-FACTS website](https://sites.google.com/view/sem-tab-facts) and on the corresponding [Codalab competition](https://competitions.codalab.org/competitions/27748)
 
 ## Description
 `tbd`  
@@ -36,3 +36,4 @@ If you find this work useful, please cite:
 ```
 
 ## Contact
+Feel free to contact `tbd` for any queries
