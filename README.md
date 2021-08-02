@@ -6,6 +6,9 @@ Code for our paper [*AttesTable at SemEval-2021 Task 9: Extending Statement Veri
 Data, task, and other competition related details can be accessed at the [SEM-TAB-FACTS website](https://sites.google.com/view/sem-tab-facts) and on the corresponding [Codalab competition](https://competitions.codalab.org/competitions/27748)
 
 ## Description
+- **`models/`**
+    - `Task-A.ipynb` : Notebook used for training/validating the models for Task-A
+    - `Task-B.ipynb` : Notebook used for training/validating the models for Task-B
 - **`utils/`**
     - **`Task-A/`**:
         -  `augment_df.py` : Synthesizes the unknown statements as proposed in our paper
