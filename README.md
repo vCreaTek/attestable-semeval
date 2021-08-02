@@ -3,7 +3,11 @@
 Code for our paper [*AttesTable at SemEval-2021 Task 9: Extending Statement Verification with Tables for Unknown Class, and Semantic Evidence Finding*](https://aclanthology.org/2021.semeval-1.182/)
 
 ## Task 
-Data, task, and other competition related details can be accessed at the [SEM-TAB-FACTS website](https://sites.google.com/view/sem-tab-facts) and on the corresponding [Codalab competition](https://competitions.codalab.org/competitions/27748)
+
+- **Task-A** : Given a table and a statement, we need to determine whether the table entails the statement, refutes the statement, or has insufficient information about it ("unknown")
+- **Task-B** :  When the table entails or refutes the statement, we need to select which cells in the table provide the evidence for it
+
+Data and other competition related details can be accessed at the [SEM-TAB-FACTS website](https://sites.google.com/view/sem-tab-facts) and on the corresponding [Codalab competition](https://competitions.codalab.org/competitions/27748)
 
 ## Description
 - **`models/`**
